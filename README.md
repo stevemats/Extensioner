@@ -12,3 +12,17 @@ Things needed for this project:
   - A smiling face {```}
 
 ### Installation
+
+To start with, we install pillow...
+```sh
+$ sudo pip install pillow
+or
+$ pip install pill...
+
+```
+Now installing our application...
+
+```sh
+
+
+```
